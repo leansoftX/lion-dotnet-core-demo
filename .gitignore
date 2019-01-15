@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/LionPackageTest/v15
+/LionPackageTest/bin/Debug/netcoreapp2.1
+/LionPackageTest/obj
